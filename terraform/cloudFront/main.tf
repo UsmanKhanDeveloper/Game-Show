@@ -11,7 +11,7 @@ provider "aws" {
 
 # ---------- Locals / Lookups ----------
 locals {
-  frontend_bucket_name = "sanskrit-familyfeud-gameshow-frontend-2"
+  frontend_bucket_name = "sanskrit-familyfeud-gameshow-frontend-5"
   ec2_tag_name         = "GameshowECSInstance"
 }
 
